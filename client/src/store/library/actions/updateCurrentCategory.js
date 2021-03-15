@@ -1,6 +1,6 @@
 import * as CONST from ".../constants";
 
-export default (categories) => ({
-  type: CONST.UPDATE_CATEGORIES,
-  payload: categories,
+export default (currentCategory) => ({
+  type: CONST.UPDATE_CURRENT_CATEGORY,
+  payload: currentCategories,
 });
