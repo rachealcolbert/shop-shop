@@ -1,0 +1,9 @@
+export const UPDATE_PRODUCTS = "library/updateProducts";
+export const UPDATE_CATEGORIES = "library/updateCategories";
+export const UPDATE_CURRENT_CATEGORY = "library/updateCurrentCategory";
+export const ADD_TO_CART = "library/addToCart";
+export const ADD_MULTIPLE_TO_CART = "library/addMultipleToCart";
+export const REMOVE_FROM_CART = "library/removeFromCart";
+export const UPDATE_CART_QUANTITY = "library/updateCartQuantity";
+export const CLEAR_CART = "library/clearCart";
+export const TOGGLE_CART = "library/toggleCart";
