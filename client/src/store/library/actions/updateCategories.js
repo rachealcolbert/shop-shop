@@ -1,4 +1,4 @@
-import * as CONST from ".../constants";
+import * as CONST from "../constants";
 
 export default (categories) => ({
   type: CONST.UPDATE_CATEGORIES,
